@@ -1,0 +1,2 @@
+Created to commit frontend folder to github
+Delete this when initializing the frontend folder structure
